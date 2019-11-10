@@ -1,0 +1,20 @@
+{
+  "name": "guesture-timer",
+  "version": "1.0.0",
+  "description": "use your hadn guesture to control timer",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loudsun1997/guesture-timer.git"
+  },
+  "keywords": [],
+  "author": "Henry Yang <zhiwei.yang1997@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loudsun1997/guesture-timer/issues"
+  },
+  "homepage": "https://github.com/loudsun1997/guesture-timer#readme"
+}
